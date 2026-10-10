@@ -1,9 +1,11 @@
 ---
 name: isEvenOrOdd
-version: 0.0.2
+version: 0.0.3
 main: NhanAZ\isEvenOrOdd\Main
 api: 5.0.0
 src-namespace-prefix: NhanAZ\isEvenOrOdd
+website: https://github.com/NhanAZ-Plugins/isEvenOrOdd
+description: Check whether a whole number is even or odd
 
 commands:
   isevenorodd:
