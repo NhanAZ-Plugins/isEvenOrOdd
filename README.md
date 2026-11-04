@@ -42,3 +42,8 @@ Run `php tests/parity.php` to check the standalone parity logic. A static check 
 ## Support and license
 
 Report issues through [GitHub Issues](https://github.com/NhanAZ-Plugins/isEvenOrOdd/issues) or [NhanAZ Discord](https://discord.gg/j2X83ujT6c). The plugin is licensed under the [MIT License](LICENSE).
+
+
+## Credits
+
+Authors: NhanAZ.
